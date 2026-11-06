@@ -13,6 +13,9 @@ This is for students who want to learn more about markdown and communicate using
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Contributing](#contributing)
+- [Support](#support)
+- [License](#license)
 
 ## Prerequisites
 Use a web browser to read the journal on GitHub. For a local copy, install Git and a text editor. A GitHub account with repository access is required to contribute.
@@ -56,3 +59,13 @@ On GitHub, the same headings appear at different sizes and task markers become c
 | --- | --- |
 | [Journal](../day-1.md) | Daily plans, code samples, and learning metrics |
 | [Project README](README.md) | Setup and usage instructions |
+
+
+## Contributing 
+To create a branch simply click at where start-blog is then type in your desired name then press create. To preview markdown simply click on the preview tab at the top. To open a pull request press "open pull request" when you see one with an intriguing description.
+
+## Support
+For any issues go to https://github.com/AdarshM2010/MarkDown2/issues/ and also make sure you include lesson number and what the issue is in description.
+
+## License
+This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
