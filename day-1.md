@@ -18,3 +18,5 @@ After day $d_1$, I completed $c^2$ practice tasks.
 $$
 p = \frac{c}{t} \times 100
 $$
+
+### The code above showcases the variables d, c and t that are put in equations. 
