@@ -14,24 +14,4 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
-# Project Title - Markdown
-
-# Overview
-This is for students who want to learn more about markdown and communicate using it.
-
-# Features
-- Showcases images
-- Showcases lists
-- Showcases heading
-
-# Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-  
-# Installation
-
-# Usage
-
 
