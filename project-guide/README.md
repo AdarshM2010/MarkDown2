@@ -65,7 +65,7 @@ On GitHub, the same headings appear at different sizes and task markers become c
 To create a branch simply click at where start-blog is then type in your desired name then press create. To preview markdown simply click on the preview tab at the top. To open a pull request press "open pull request" when you see one with an intriguing description.
 
 ## Support
-For any issues go to this link: [issues tab](../issues)(enter in a title and a description then press create) and also make sure you include lesson number and what the issue is in description.
+For any issues go to this link: [issues tab](https://github.com/AdarshM2010/MarkDown2/issues/new)(enter in a title and a description then press create) and also make sure you include lesson number and what the issue is in description.
 
 ## License
 This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
