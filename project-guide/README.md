@@ -69,3 +69,13 @@ For any issues go to this link: [issues tab](https://github.com/AdarshM2010/Mark
 
 ## License
 This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
+
+## Review checklist
+
+- [x] Confirmed the purpose, audience, and feature descriptions are accurate.
+- [x] Followed setup and usage instructions and compared the result.
+- [x] Tested Contents and file links and checked image alternative text.
+- [x] Verified contribution, support, and license information.
+
+## Troubleshooting 
+How to fix "cat: day-1.md: No such file or directory":  enter the cloned repository folder and check that the journal exists on the selected branch.
